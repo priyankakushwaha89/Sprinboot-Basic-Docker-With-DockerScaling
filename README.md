@@ -36,8 +36,8 @@ springboot-basic-application/
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/springboot-basic-application.git
-cd springboot-basic-application
+git clone https://github.com/priyankakushwaha89/Sprinboot-Basic-Docker-With-DockerScaling.git
+cd Sprinboot-Basic-Docker-With-DockerScaling
 ```
 
 ### 2. Build the project:
