@@ -1,0 +1,8 @@
+version: "3"
+services:
+  testimage:       #service name
+    build: .
+    ports:
+      - 1000-1200:8080 # Range for host ports to dynamically bind to 8080 in containers
+
+
